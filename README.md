@@ -39,3 +39,6 @@ Each judgment has been manually annotated based on four core legal principles:
 │
 ├── LICENSE
 └── README.md
+
+📂 Explore the dataset and figures: [Data Branch](https://github.com/AisegulA/EU-Sanctions-Judicial-Divergence/tree/Data)
+
