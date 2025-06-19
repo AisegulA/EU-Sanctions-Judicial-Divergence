@@ -1,0 +1,38 @@
+Case Name,Jurisdiction,Proportionality,Judicial Review,CJEU Reference,National Doctrine
+CJEU - Kadi,CJEU,explicit,strong,positive,not invoked
+CJEU - Bank Melli,CJEU,explicit,strong,positive,not invoked
+CJEU - Rosneft,CJEU,explicit,strong,positive,not invoked
+CJEU - PMOI,CJEU,shallow,weak,distinguish,active
+CJEU - Gestoras,CJEU,shallow,weak,absent,active
+CJEU - Jemerak,CJEU,absent,absent,absent,not invoked
+CJEU - Gutseriev,CJEU,explicit,strong,positive,not invoked
+CJEU - SBK,CJEU,shallow,weak,absent,passive
+CJEU - Generalstaatsanwaltschaft,CJEU,shallow,weak,absent,active
+CJEU - Alfa-Bank,CJEU,explicit,strong,positive,not invoked
+CJEU - Pumpyanskiy,CJEU,explicit,strong,positive,active
+CJEU - Telekom,CJEU,shallow,weak,positive,not invoked
+CJEU - Arbuzov,CJEU,shallow,weak,distinguish,not invoked
+CJEU - Yanukovych,CJEU,explicit,strong,positive,active
+CJEU - Rosneft (2017),CJEU,explicit,strong,positive,active
+FR1 – CE 396651,France,shallow,weak,distinguish,active
+FR2 – CE 432873,France,shallow,moderate,positive,passive
+FR3 – CE 428178,France,shallow,weak,absent,passive
+FR4 – CE 434684,France,shallow,moderate,positive,active
+FR5 – CE 446155,France,explicit,moderate,positive,active
+FR6 – CAA Paris 18PA03828,France,explicit,moderate,distinguish,active
+GR1 – BVerwG 1 C 23.16,Germany,explicit,strong,positive,active
+GR2 – BVerwG 1 C 31.18,Germany,shallow,moderate,positive,passive
+GR3 – BVerwG 1 A 3.17,Germany,shallow,moderate,absent,passive
+GR4 – BVerwG 1 C 11.19,Germany,explicit,strong,positive,active
+GR5 – BVerwG 6 C 7.19,Germany,shallow,weak,absent,passive
+GR6 – BVerwG 3 B 31.19,Germany,shallow,weak,positive,passive
+NL1 – HR 2024_922,Netherlands,shallow,weak,positive,passive
+NL2 – RBROT 2024_9672,Netherlands,shallow,weak,positive,active
+NL3 – GHAMS 2023_1058,Netherlands,shallow,moderate,positive,passive
+NL4 – RBROT 2024_9673,Netherlands,shallow,moderate,positive,passive
+NL5 – RBAMS 2022_5466,Netherlands,shallow,moderate,positive,active
+NL6 – RBAMS 2025_342,Netherlands,explicit,strong,positive,active
+IT1 – TAR Puglia,Italy,explicit,strong,positive,active
+IT2 – TAR Lazio,Italy,shallow,moderate,positive,passive
+IT3 – Neves 77 Solutions,Italy,shallow,moderate,distinguish,passive
+IT4 – INAUGURAZIONE ANNO GIUDIZIARIO,Italy,explicit,strong,positive,active
