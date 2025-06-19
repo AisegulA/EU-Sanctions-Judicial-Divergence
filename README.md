@@ -14,3 +14,28 @@ Each judgment has been manually annotated based on four core legal principles:
 - **Judicial Review** (Strong / Weak / Absent)
 - **CJEU Reference** (Positive / Distinguish / Absent)
 - **National Doctrine** (Active / Passive / Not Invoked)
+
+├── data/
+│   ├── CJEU/                      # 15 Court of Justice of the EU (CJEU) decisions in PDF format
+│   ├── France/                    # French national court decisions
+│   ├── Germany/                   # German national court decisions
+│   ├── Italy/                     # Italian national court decisions
+│   └── Netherlands/               # Dutch national court decisions
+│
+├── coding/
+│   ├── coding_scheme.csv          # Legal principle coding categories (Figure 1)
+│   ├── final_coding_matrix.csv    # All 37 decisions with coded legal features
+│   └── case_list.xlsx             # Metadata for each case (court, date, country, etc.)
+│
+├── scripts/
+│   ├── text_processing.py         # Natural Language Processing (NLP) pipeline using SpaCy
+│   └── plot_figures.py            # Python code to generate figures (heatmaps, line plots, bar charts)
+│
+├── figures/
+│   ├── figure1_coding_scheme.png
+│   ├── figure2_heatmap.png
+│   ├── figure3_country_density.png
+│   └── figure4_term_frequency.png
+│
+├── LICENSE
+└── README.md
