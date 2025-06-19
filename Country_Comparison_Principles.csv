@@ -1,0 +1,5 @@
+Country,Proportionality_Explicit,Proportionality_Shallow,Proportionality_Absent,JudicialReview_Strong,JudicialReview_Weak,JudicialReview_Absent
+France,1,2,0,1,2,0
+Germany,2,1,0,2,1,0
+Italy,3,0,0,2,1,0
+Netherlands,2,1,0,3,0,0
